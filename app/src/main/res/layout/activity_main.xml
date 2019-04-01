@@ -15,20 +15,20 @@
 
 
     <RadioButton
-        android:id="@+id/rajeshdai"
+        android:id="@+id/rdorajeshdai"
         android:text="rajeshdai"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"/>
 
     <RadioButton
-        android:id="@+id/dayahang"
+        android:id="@+id/rdodayahang"
         android:text="dayahang"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"/>
     <RadioButton
-        android:id="@+id/saugat"
+        android:id="@+id/rdosaugat"
         android:text="saugat"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
